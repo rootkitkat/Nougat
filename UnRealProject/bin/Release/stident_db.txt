@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<root>
+  <db_student id="5152" show="true" cource_id="Курс 2" facultet_id="ФАИТ" group_num="2">
+    <name>Артём</name>
+    <sub_name>Акопьян</sub_name>
+    <sub2_name>Викторович</sub2_name>
+  </db_student>
+  <db_student id="9636" show="true" cource_id="Курс 2" facultet_id="ФАИТ" group_num="2">
+    <name>Артём</name>
+    <sub_name>Акопьян</sub_name>
+    <sub2_name>Викторович</sub2_name>
+  </db_student>
+  <db_student id="8351" show="true" cource_id="Курс 2" facultet_id="ФАИТ" group_num="2">
+    <name>Артём</name>
+    <sub_name>Акопьян</sub_name>
+    <sub2_name>Викторович</sub2_name>
+  </db_student>
+  <db_student id="3836" show="true" cource_id="Курс 2" facultet_id="ФАИТ" group_num="2">
+    <name>Артём</name>
+    <sub_name>Акопьян</sub_name>
+    <sub2_name>Викторович</sub2_name>
+  </db_student>
+  <db_student id="4023" show="true" cource_id="Курс 2" facultet_id="ФАИТ" group_num="2">
+    <name>Артём</name>
+    <sub_name>Акопьян</sub_name>
+    <sub2_name>Викторович</sub2_name>
+  </db_student>
+  <db_student id="1266" show="true" cource_id="Курс 2" facultet_id="ФАИТ" group_num="2">
+    <name>Артём</name>
+    <sub_name>Акопьян</sub_name>
+    <sub2_name>Викторович</sub2_name>
+  </db_student>
+  <db_student id="5750" show="true" cource_id="Курс 2" facultet_id="ФАИТ" group_num="2">
+    <name>Артём</name>
+    <sub_name>Акопьян</sub_name>
+    <sub2_name>Викторович</sub2_name>
+  </db_student>
+  <db_student id="4465" show="true" cource_id="Курс 2" facultet_id="ФАИТ" group_num="2">
+    <name>Артём</name>
+    <sub_name>Акопьян</sub_name>
+    <sub2_name>Викторович</sub2_name>
+  </db_student>
+  <db_student id="4652" show="true" cource_id="Курс 2" facultet_id="ФАИТ" group_num="2">
+    <name>Артём</name>
+    <sub_name>Акопьян</sub_name>
+    <sub2_name>Викторович</sub2_name>
+  </db_student>
+  <db_student id="9136" show="true" cource_id="Курс 2" facultet_id="ФАИТ" group_num="2">
+    <name>Артём</name>
+    <sub_name>Акопьян</sub_name>
+    <sub2_name>Викторович</sub2_name>
+  </db_student>
+  <db_student id="7851" show="true" cource_id="Курс 2" facultet_id="ФАИТ" group_num="2">
+    <name>Артём</name>
+    <sub_name>Акопьян</sub_name>
+    <sub2_name>Викторович</sub2_name>
+  </db_student>
+</root>

@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8" ?> 
+<root>
+  <db_student id="0000" cource_id="0" facultet_id="0" group_num="2" show="true">
+    <name>Иван</name>
+    <sub_name>Иванов</sub_name>
+    <sub2_name>Иванович</sub2_name>
+  </db_student>
+</root>

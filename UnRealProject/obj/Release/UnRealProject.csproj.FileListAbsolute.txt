@@ -1,0 +1,12 @@
+C:\Users\USER\Documents\Visual Studio 2015\Projects\UnRealProject\UnRealProject\bin\Release\UnRealProject.exe.config
+C:\Users\USER\Documents\Visual Studio 2015\Projects\UnRealProject\UnRealProject\bin\Release\XMLFile1.xml
+C:\Users\USER\Documents\Visual Studio 2015\Projects\UnRealProject\UnRealProject\bin\Release\UnRealProject.exe
+C:\Users\USER\Documents\Visual Studio 2015\Projects\UnRealProject\UnRealProject\bin\Release\UnRealProject.pdb
+C:\Users\USER\Documents\Visual Studio 2015\Projects\UnRealProject\UnRealProject\obj\Release\UnRealProject.Form1.resources
+C:\Users\USER\Documents\Visual Studio 2015\Projects\UnRealProject\UnRealProject\obj\Release\UnRealProject.Properties.Resources.resources
+C:\Users\USER\Documents\Visual Studio 2015\Projects\UnRealProject\UnRealProject\obj\Release\UnRealProject.csproj.GenerateResource.Cache
+C:\Users\USER\Documents\Visual Studio 2015\Projects\UnRealProject\UnRealProject\obj\Release\UnRealProject.exe
+C:\Users\USER\Documents\Visual Studio 2015\Projects\UnRealProject\UnRealProject\obj\Release\UnRealProject.pdb
+C:\Users\Евгений\Desktop\Павел Филин\UnRealProject\UnRealProject\UnRealProject\bin\Release\UnRealProject.exe.config
+C:\Users\Евгений\Desktop\Павел Филин\UnRealProject\UnRealProject\UnRealProject\obj\Release\UnRealProject.exe
+C:\Users\Евгений\Desktop\Павел Филин\UnRealProject\UnRealProject\UnRealProject\obj\Release\UnRealProject.pdb
